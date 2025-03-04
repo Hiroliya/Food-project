@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I’m excited to share a tomato food websiteI built using **HTML**, **CSS**, **JavaScript**, **React**, and **React Hooks**! 🎉 🔧 **Technologies used:** - **HTML/CSS:** For the app structure and styling to make it responsive and visually appealing. - **JavaScript/React:** Powering the website with dynamic interactivity. - **React Hooks:** For efficient state management and improved performance. 📲 **Key Features:** - Search and filter recipes based on ingredients. - Interactive UI for an engaging user experience. - Clean, modern design optimized for mobile and desktop. 
